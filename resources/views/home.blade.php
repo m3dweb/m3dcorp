@@ -29,11 +29,14 @@
     <div class="intro-body">
         <div class="row textHeaderHome" >
             <div class="col-md-8 col-md-offset-2" >
+                <!--
                 <h1 class="brand-heading"></h1>
                 <p class="intro-text">
                     Un fantástico equipo de profesionales a tu servicio para lograr la solución perfecta a tus necesidades en Internet.
                 </p>
                 <a href="#sistemas" class="btn btn-circle page-scroll pulse"> <i class="fa fa-angle-double-down animated "></i> </a>
+                -->
+
             </div>
         </div>
     </div>
@@ -195,8 +198,8 @@
                                 <br/>
 
                                 <p>
-                                    Gestionamos más de un centenar de servidores y appliances, tanto físicos como virtualizados.
-                                </p>
+                                    Nuestros diseñadores, personas creativas y apasionadas por el mundo del diseño, sabrán encontrar la mejor forma de representar su marca o proyecto de forma artística.</p>
+                                <p>Tanto a la hora de diseñar la imagen corporativa de su marca, como para actualizarla y darle un nuevo y fresco enfoque en M3dweb conseguiremos alcanzar el resultado más óptimo</p>
                                 <p>
 
                                 </p>

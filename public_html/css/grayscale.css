@@ -472,3 +472,32 @@ body {
   background: url(../../images/notonly_logo.png) #fff center center no-repeat;
     background-size: contain;
 }
+.formContact{
+    width:48%;
+    margin-right:3%;
+    float:left;
+}
+.map{
+    width:48%;
+    float:left;
+}
+
+.form-group label{
+    font-size:16px;
+}
+
+.menuList li {
+    font-size:20px;
+}
+
+.firstLog{
+    font-size:44px;
+}
+.secondLog{
+    font-size:30px;
+}
+
+#KerbLog{
+    margin-left:-50%;
+    margin-top:-7px;
+}
